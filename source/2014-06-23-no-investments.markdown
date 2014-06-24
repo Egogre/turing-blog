@@ -12,10 +12,10 @@ question *"how's that working out for you?"* And the answer is *"it's difficult.
 The paperwork, the accountability, not qualifying for things like SBA loans, etc.
 Yes, I'm familiar with "B Corps", but they're not the same.
 
-A big part of the 501(c)(3) decision was about investment -- **I'm against it**. I
+A big part of the 501(c)(3) decision was about third party sourced investment funding -- **I'm against it**. I
 bootstrapped [Jumpstart Lab](http://jumpstartlab.com) in 2009, so doing the same
 with Turing just made sense. But if you look around you'll find developer education
-programs taking investment left and right, some in the tens of millions of dollars.
+programs taking investment funding left and right, some in the tens of millions of dollars.
 
 That's a *big problem*. Investors don't give money away, *they expect it back*.
 And in the tech world, they're looking for 10x return on investment. If they put
@@ -26,14 +26,14 @@ Coursera can parlay investment dollars into new content that can reach millions
 of learners -- that's awesome. If they're each willing to pay a few dollars then
 the investors can hit their 10x no problem while realizing the educational goals.
 
-But we're not in the content business, we're in a services business. Classrooms
+But we're not in the content business. We're in a services business. Classrooms
 don't scale in the same ways as software and content.
 
 So where can 10x returns come from? **Student tuition**. For every dollar an investor puts
-in they want *ten student dollars back*. That tuition paid into the system, instead
-of paying for their instructors and facilities, pays investors. It compels the school to
+in they want *ten student dollars back*. That tuition lines the investors pockets instead
+of paying for high quality instructors, facilities or improvents for future students. It compels the school to
 raise tuition and cut costs. You raise your student/teacher ratio and use less
-experienced instructors. Money sucked out of the ecosystem, diverted to the investors.
+experienced instructors. Money is sucked out of the educational ecosystem, and diverted to the investors. This short sighted approach to developer education programs dooms the students who buy into the school to *sub-par training* and floods the market with *low quality developers.*
 
 **What's right for investors is orthogonal to what's right for students**. If we claim
 to be focused on the best possible outcomes for our students *and* take investment, then 
